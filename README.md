@@ -1,10 +1,9 @@
 Hi there 👋
 
 
-**praveenzsp/praveenzsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+About Me 😎
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🔭 I’m currently working as an Application Development Associate at Accenture
 - 🌱 I’m currently learning MERN stack along with web3
 - 🎓 I did my graduation at Vignan's Institute of Information Technology(Visakhapatnam)
