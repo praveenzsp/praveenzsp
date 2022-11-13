@@ -32,6 +32,4 @@ Contact Me 📞
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenzsp&&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenzsp)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenzsp&&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenzsp&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
