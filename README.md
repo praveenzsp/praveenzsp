@@ -8,7 +8,7 @@ Hi there 👋
 
 About Me 😎
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 🔭 I’m currently working as an Application Development Associate at Accenture
+- 🔭 I’m currently working as a React Developer at Accenture
 - 🌱 I’m currently learning MERN stack along with web3
 - 🎓 I did my graduation at Vignan's Institute of Information Technology(Visakhapatnam)
 - 💬 Ask me about MERN stack or web3
