@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Praveen</h1>
-<h3 align="center">React Dec @Accenture | MERN Stack | Web3.0 | Blockchain</h3>
+<h3 align="center">React Dev @Accenture | MERN Stack | Web3.0 | Blockchain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenzsp&label=Profile%20views&color=0e75b6&style=flat" alt="praveenzsp" /> </p>
 
