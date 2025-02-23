@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **psai6645@gmaill.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-muytm__IaM-Xr-nclG62DFIrrUIrmAS/view?usp=drive_link](https://drive.google.com/file/d/1-muytm__IaM-Xr-nclG62DFIrrUIrmAS/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lefEwnB-vdEqtTUzC5-LcJp3qLtQme3F/view?usp=sharing)
 
 - ⚡ Fun fact **Loves Marvel & Anime**
 
