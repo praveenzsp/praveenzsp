@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/praveen__z" target="blank"><img src="https://img.shields.io/twitter/follow/praveen__z?logo=twitter&style=for-the-badge" alt="praveen__z" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://praveenzsp.vercel.app/](https://praveenzsp.vercel.app/)
 
